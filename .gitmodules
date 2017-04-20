@@ -1,0 +1,3 @@
+[submodule "public_module"]
+	path = public_module
+	url = git@github.com:xvnian/public_module.git
